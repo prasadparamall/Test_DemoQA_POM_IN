@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-12T22:58:37 IST" name="Suite" finished-at="2024-03-12T23:00:16 IST" duration-ms="99020">
+    <groups>
+      <group name="regression">
+        <method signature="TC0001_TextBox_Test.testBox_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" name="testBox_Data" class="elements_Test.TC0001_TextBox_Test"/>
+        <method signature="TC0003_RadioButton_Test.radioButton_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0003_RadioButton_Test@6bbe85a8]" name="radioButton_Data" class="elements_Test.TC0003_RadioButton_Test"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC0001_TextBox_Test.testBox_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" name="testBox_Data" class="elements_Test.TC0001_TextBox_Test"/>
+        <method signature="TC0003_RadioButton_Test.radioButton_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0003_RadioButton_Test@6bbe85a8]" name="radioButton_Data" class="elements_Test.TC0003_RadioButton_Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-12T22:58:37 IST" name="TestBox" finished-at="2024-03-12T22:59:42 IST" duration-ms="65652">
+      <class name="elements_Test.TC0001_TextBox_Test">
+        <test-method is-config="true" signature="open(java.lang.String)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:58:38 IST" name="open" finished-at="2024-03-12T22:58:48 IST" duration-ms="9405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="testBox_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:58:48 IST" name="testBox_Data" data-provider="DemoQAdata" finished-at="2024-03-12T22:59:19 IST" duration-ms="31531" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{paddress=12345678, email=abc@gmail.com, caddress=ab:3737, fname=abc}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBox_Data -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:59:19 IST" name="tearDown" finished-at="2024-03-12T22:59:20 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="open(java.lang.String)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:59:20 IST" name="open" finished-at="2024-03-12T22:59:26 IST" duration-ms="5635" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="testBox_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:59:26 IST" name="testBox_Data" data-provider="DemoQAdata" finished-at="2024-03-12T22:59:42 IST" duration-ms="16175" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{paddress=1234567899, email=def@gmail.com, caddress=dsd9@09, fname=def}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBox_Data -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:elements_Test.TC0001_TextBox_Test@3f6f6701]" started-at="2024-03-12T22:59:42 IST" name="tearDown" finished-at="2024-03-12T22:59:42 IST" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- elements_Test.TC0001_TextBox_Test -->
+    </test> <!-- TestBox -->
+    <test started-at="2024-03-12T22:59:42 IST" name="RadioButton" finished-at="2024-03-12T23:00:16 IST" duration-ms="33327">
+      <class name="elements_Test.TC0003_RadioButton_Test">
+        <test-method is-config="true" signature="open(java.lang.String)[pri:0, instance:elements_Test.TC0003_RadioButton_Test@6bbe85a8]" started-at="2024-03-12T22:59:43 IST" name="open" finished-at="2024-03-12T22:59:49 IST" duration-ms="6638" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="radioButton_Data(java.util.Hashtable)[pri:0, instance:elements_Test.TC0003_RadioButton_Test@6bbe85a8]" started-at="2024-03-12T22:59:49 IST" name="radioButton_Data" data-provider="DemoQAdata" finished-at="2024-03-12T23:00:15 IST" duration-ms="26204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{no=true, yes=true, impressive=false}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioButton_Data -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:elements_Test.TC0003_RadioButton_Test@6bbe85a8]" started-at="2024-03-12T23:00:15 IST" name="tearDown" finished-at="2024-03-12T23:00:16 IST" duration-ms="353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- elements_Test.TC0003_RadioButton_Test -->
+    </test> <!-- RadioButton -->
+  </suite> <!-- Suite -->
+</testng-results>

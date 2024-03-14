@@ -1,0 +1,90 @@
+19/09/2023 20:57:13 devpinoyLogger launching chrome broswer
+19/09/2023 20:57:20 devpinoyLogger Open URL from config file
+19/09/2023 20:57:34 devpinoyLogger launching chrome broswer
+19/09/2023 20:57:43 devpinoyLogger Open URL from config file
+19/09/2023 20:57:43 devpinoyLogger click checkbox button
+19/09/2023 20:57:44 devpinoyLogger click home dropdown button
+19/09/2023 20:57:46 devpinoyLogger click desktop
+19/09/2023 20:57:46 devpinoyLogger click documents
+19/09/2023 20:57:47 devpinoyLogger click downloads
+19/09/2023 20:57:48 devpinoyLogger click workspace
+19/09/2023 20:57:49 devpinoyLogger click office
+19/09/2023 20:57:50 devpinoyLogger click workspace
+19/09/2023 20:57:53 devpinoyLogger click workspace
+19/09/2023 20:57:54 devpinoyLogger click workspace
+19/09/2023 20:57:55 devpinoyLogger click workspace
+19/09/2023 20:57:57 devpinoyLogger click workspace
+19/09/2023 20:57:59 devpinoyLogger click workspace
+19/09/2023 20:58:01 devpinoyLogger print checkbox detatils
+19/09/2023 20:58:07 devpinoyLogger launching chrome broswer
+19/09/2023 20:58:13 devpinoyLogger Open URL from config file
+19/09/2023 20:58:13 devpinoyLogger click radiobutton
+19/09/2023 20:58:15 devpinoyLogger click yes radio button
+19/09/2023 20:58:22 devpinoyLogger launching chrome broswer
+19/09/2023 20:58:29 devpinoyLogger Open URL from config file
+19/09/2023 20:58:30 devpinoyLogger click webtable button
+19/09/2023 20:58:35 devpinoyLogger click Add button
+19/09/2023 20:58:37 devpinoyLogger enter first name
+19/09/2023 20:58:37 devpinoyLogger enter last name
+19/09/2023 20:58:38 devpinoyLogger enter email
+19/09/2023 20:58:38 devpinoyLogger enter age
+19/09/2023 20:58:38 devpinoyLogger enter salary
+19/09/2023 20:58:38 devpinoyLogger enter department
+19/09/2023 20:58:39 devpinoyLogger click submit button
+19/09/2023 20:58:41 devpinoyLogger click Add button
+19/09/2023 20:58:43 devpinoyLogger enter first name
+19/09/2023 20:58:43 devpinoyLogger enter last name
+19/09/2023 20:58:43 devpinoyLogger enter email
+19/09/2023 20:58:43 devpinoyLogger enter age
+19/09/2023 20:58:44 devpinoyLogger enter salary
+19/09/2023 20:58:44 devpinoyLogger enter department
+19/09/2023 20:58:45 devpinoyLogger click submit button
+19/09/2023 20:58:49 devpinoyLogger enter name
+19/09/2023 20:58:50 devpinoyLogger click edit button
+19/09/2023 20:58:51 devpinoyLogger enter first name
+19/09/2023 20:58:53 devpinoyLogger enter last name
+19/09/2023 20:58:54 devpinoyLogger enter email
+19/09/2023 20:58:55 devpinoyLogger click submit button
+19/09/2023 20:58:56 devpinoyLogger enter modified name
+19/09/2023 20:58:58 devpinoyLogger click delect button
+19/09/2023 20:59:00 devpinoyLogger enter name
+19/09/2023 20:59:01 devpinoyLogger click edit button
+19/09/2023 20:59:02 devpinoyLogger enter first name
+19/09/2023 20:59:04 devpinoyLogger enter last name
+19/09/2023 20:59:05 devpinoyLogger enter email
+19/09/2023 20:59:06 devpinoyLogger click submit button
+19/09/2023 20:59:07 devpinoyLogger enter modified name
+19/09/2023 20:59:08 devpinoyLogger click delect button
+19/09/2023 20:59:18 devpinoyLogger launching chrome broswer
+19/09/2023 20:59:24 devpinoyLogger Open URL from config file
+19/09/2023 20:59:24 devpinoyLogger click button
+19/09/2023 20:59:25 devpinoyLogger click doublieclick
+19/09/2023 20:59:26 devpinoyLogger click rightclick
+19/09/2023 20:59:27 devpinoyLogger click singleclick
+19/09/2023 20:59:33 devpinoyLogger launching chrome broswer
+19/09/2023 20:59:40 devpinoyLogger Open URL from config file
+19/09/2023 20:59:40 devpinoyLogger click linksbutton
+19/09/2023 20:59:41 devpinoyLogger getText to links
+19/09/2023 20:59:41 devpinoyLogger click home
+19/09/2023 20:59:43 devpinoyLogger switching to main windows
+19/09/2023 20:59:45 devpinoyLogger verifie assertions getTiltle
+19/09/2023 20:59:46 devpinoyLogger switching to main windows
+19/09/2023 20:59:46 devpinoyLogger click home2
+19/09/2023 20:59:47 devpinoyLogger switching to main windows
+19/09/2023 20:59:48 devpinoyLogger verify getTitle
+19/09/2023 20:59:49 devpinoyLogger switching to main windows
+19/09/2023 20:59:49 devpinoyLogger click created
+19/09/2023 20:59:51 devpinoyLogger click nocontent
+19/09/2023 20:59:53 devpinoyLogger click moved
+19/09/2023 20:59:55 devpinoyLogger click badrequest
+19/09/2023 20:59:57 devpinoyLogger click unautorized
+19/09/2023 20:59:59 devpinoyLogger click forbidden
+19/09/2023 21:00:01 devpinoyLogger click notfound
+19/09/2023 21:00:08 devpinoyLogger launching chrome broswer
+19/09/2023 21:00:15 devpinoyLogger Open URL from config file
+19/09/2023 21:00:41 devpinoyLogger launching chrome broswer
+19/09/2023 21:00:48 devpinoyLogger Open URL from config file
+19/09/2023 21:00:59 devpinoyLogger launching chrome broswer
+19/09/2023 21:01:05 devpinoyLogger Open URL from config file
+19/09/2023 21:01:15 devpinoyLogger launching chrome broswer
+19/09/2023 21:01:21 devpinoyLogger Open URL from config file
