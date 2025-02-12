@@ -60,6 +60,7 @@ public class BaseClass {
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		//properties
 		}
 		pro = new Properties();
 		try {
