@@ -51,7 +51,6 @@ public class BaseClass {
 
 	public static ThreadLocal<WebDriver> threadLocalDriver = new ThreadLocal<>();
 	
-	
 
 	public static WebDriver doBrowserSetup(String browser) throws MalformedURLException {
 
